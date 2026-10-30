@@ -1,4 +1,4 @@
-# ![PicOrganizer](https://img.shields.io/badge/ProjetoX-EXIF%20Organizer-blue) PicOrganizer - Organizador de Imagens
+# ![PicOrganizer](https://img.shields.io/badge/PicOrganizer-EXIF%20Organizer-blue) PicOrganizer - Organizador de Imagens
 
 **PicOrganizer** é um **organizador gráfico de imagens** desenvolvido em PowerShell. Ele permite **renomear, organizar, mover entre diretórios e gerar logs de toda essa movimentação** com base nos metadados EXIF, de forma rápida e segura.
 
@@ -62,8 +62,8 @@
 Abra o terminal no VSCode ou PowerShell e execute:
 
 ```bash
-git clone https://github.com/Grupo-Valebrum/ProjetoX.git
-cd programa
+git clone https://github.com/Valebrum/PicOrganizer.git
+cd PicOrganizer
 ```
 2. Configurar permissões para execução de scripts
 
